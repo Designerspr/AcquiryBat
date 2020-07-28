@@ -1,0 +1,176 @@
+{
+    "screen_res": [
+        1680,
+        1050
+    ],
+    "IMEditor_st": {
+        "position": [
+            1064,
+            944
+        ]
+    },
+    "IMEditor_cls": {
+        "position": [
+            1215,
+            150
+        ]
+    },
+    "temper_control": {
+        "position": [
+            547,
+            235
+        ],
+        "column": {
+            "position": [
+                607,
+                418
+            ],
+            "bias": [
+                0,
+                17
+            ],
+            "selections": [
+                25.0,
+                35.0,
+                40.0,
+                50.0
+            ]
+        },
+        "sample": {
+            "position": [
+                607,
+                462
+            ],
+            "bias": [
+                0,
+                17
+            ],
+            "selections": [
+                25.0,
+                35.0,
+                40.0,
+                50.0
+            ]
+        }
+    },
+    "PDA_detector": {
+        "position": [
+            470,
+            236
+        ],
+        "if_detector": {
+            "position": [
+                339,
+                361
+            ]
+        },
+        "sampling_rate": {
+            "position": [
+                355,
+                522
+            ],
+            "bias": [
+                0,
+                17
+            ],
+            "selections": [
+                10,
+                20,
+                40,
+                80
+            ]
+        },
+        "3d_settings": {
+            "if_3d_data": {
+                "position": [
+                    339,
+                    361
+                ]
+            },
+            "sampling_range": {
+                "left": {
+                    "position": [
+                        492,
+                        424
+                    ]
+                },
+                "right": {
+                    "position": [
+                        600,
+                        424
+                    ]
+                }
+            },
+            "resolution": {
+                "position": [
+                    500,
+                    454
+                ],
+                "bias": [
+                    0,
+                    17
+                ],
+                "selections": [
+                    1.2,
+                    2.4,
+                    3.6,
+                    4.8
+                ]
+            }
+        }
+    },
+    "sampling_control": {
+        "position": [
+            618,
+            234
+        ],
+        "pressure_limits": {
+            "low": {
+                "position": [
+                    680,
+                    390
+                ]
+            },
+            "high": {
+                "position": [
+                    680,
+                    423
+                ]
+            }
+        },
+        "sampling_sheet": {
+            "position": [
+                407,
+                550
+            ],
+            "nxtline_button": [
+                757,
+                609
+            ],
+            "bias": [
+                60,
+                0
+            ]
+        }
+    },
+    "monitor_setting": {
+        "temper_col_box": [
+            805,
+            107,
+            870,
+            130
+        ],
+        "temper_sam_box": [
+            805,
+            163,
+            870,
+            185
+        ],
+        "pressure_box": [
+            462,
+            130,
+            521,
+            155
+        ]
+    }
+}
